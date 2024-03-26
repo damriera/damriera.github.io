@@ -46,11 +46,6 @@ function showError(message) {
     alert("Error: " + message);
 }
 
-
-function showError(message) {
-    alert("Error: " + message);
-}
-
 function showSuccess(message) {
     alert("Success: " + message);
 }
