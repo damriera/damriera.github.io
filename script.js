@@ -28,15 +28,21 @@ document.getElementById("loginButton").addEventListener("click", function(event)
     fetch("users.json")
         .then(response => response.json())
         .then(data => {
-            const users = data.users;
-            const user = users.find(u => u.email === loginEmail);
-
-            if (!user) {
+            let userFound = false;
+            for (let i = 0; i < data.users.length; i++) {
+                const user = data.users[i];
+                if (user.email === loginEmail) {
+                    userFound = true;
+                    if (user.password === loginPassword) {
+                        showSuccess("Login successful!");
+                    } else {
+                        showError("Incorrect password.");
+                    }
+                    break;
+                }
+            }
+            if (!userFound) {
                 showError("User not found.");
-            } else if (user.password !== loginPassword) {
-                showError("Incorrect password.");
-            } else {
-                showSuccess("Login successful!");
             }
         })
         .catch(error => console.error("Error:", error));
