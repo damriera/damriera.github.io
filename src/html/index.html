@@ -1,20 +1,38 @@
 <!DOCTYPE html>
 <head>
     <title>Damien Riera</title>
-    <link rel="stylesheet" href="../css/style.css">
-    <link rel="script" href="../js/script.js">
+    <link rel="stylesheet" type="text/css" href="../css/treeview.css">
+    <script type="text/javascript" src="../js/script.js"></script>
 </head>
 <body>
-    <h1>Website</h1>
-    <div class="card">
-        <a href="../cours/dev/docker/tp1/index.md"></a>
-        <div class="card-title">
-            Docker TP1
-        </div>
-        <div class="card-content">
-            DEV4.2 Docker
-        </div>
-    </div>
+    <ol class="tree">
+    <li>
+        <label for="cours">cours</label> <input type="checkbox" id="cours" />
+        <ol>
+            <li>
+                <label for="dev">dev</label> <input type="checkbox" id="dev" />
+                <ol>
+                    <li>
+                        <label for="docker">docker</label> <input type="checkbox" id="docker" />
+                        <ol>
+                            <li>
+                                <label for="tp1">tp1</label> <input type="checkbox" id="tp1" />
+                                <ol>
+                                    <li class="file"><a href="../cours/dev/docker/tp1/index.md">index.md</a></li>
+                                </ol>
+                            </li>
+                        </ol>
+                    </li>
+                </ol>
+            </li>
+        </ol>
+    </li>
+</ol>
+
+    
+    
+
+
 </div>
 </body>
 </html>
