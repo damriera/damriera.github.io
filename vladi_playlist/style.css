@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  background: #0d0d0d;
+  color: white;
+  font-family: Arial, sans-serif;
+  overflow: hidden;
+}
+
+#viewport {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  position: relative;
+  cursor: grab;
+}
+
+#scene {
+  position: absolute;
+  transform-origin: 0 0;
+  transition: transform 0.05s linear;
+}
+
+.song {
+  position: absolute;
+  background: #1a1a1a;
+  padding: 0.8rem 1.2rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.5);
+  white-space: nowrap;
+  font-size: 0.9rem;
+  pointer-events: none;
+}

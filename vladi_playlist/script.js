@@ -7,72 +7,45 @@ let originY = 200;
 let isDragging = false;
 let startX, startY;
 
-// Check overlap between two elements
-function isOverlapping(a, b, padding = 20) {
-  return !(
-    a.right + padding < b.left ||
-    a.left - padding > b.right ||
-    a.bottom + padding < b.top ||
-    a.top - padding > b.bottom
-  );
-}
-
-// Place elements without overlap
-function placeElements(elements, clusterSize = 1000) {
-  const placed = [];
-  elements.forEach(el => {
+// Generate non-overlapping random positions
+function generatePositions(songs, clusterSize = 800, minDistance = 200) {
+  const positions = [];
+  songs.forEach(() => {
+    let x, y, valid;
     let attempts = 0;
-    let valid;
     do {
-      const x = Math.random() * clusterSize;
-      const y = Math.random() * clusterSize;
-      el.style.left = x + "px";
-      el.style.top = y + "px";
-
-      const rect = el.getBoundingClientRect();
-      const elBox = {
-        left: x,
-        top: y,
-        right: x + rect.width,
-        bottom: y + rect.height
-      };
-
+      x = Math.random() * clusterSize;
+      y = Math.random() * clusterSize;
       valid = true;
-      for (let other of placed) {
-        if (isOverlapping(elBox, other)) {
+      for (let pos of positions) {
+        const dx = pos.x - x;
+        const dy = pos.y - y;
+        if (Math.sqrt(dx * dx + dy * dy) < minDistance) {
           valid = false;
           break;
         }
       }
-
       attempts++;
-      if (attempts > 2000) {
-        console.warn("Could not place element without overlap:", el.textContent);
+      if (attempts > 1000) { // safety net in case it's too crowded
         break;
       }
     } while (!valid);
-
-    const rect = el.getBoundingClientRect();
-    placed.push({
-      left: parseInt(el.style.left),
-      top: parseInt(el.style.top),
-      right: parseInt(el.style.left) + rect.width,
-      bottom: parseInt(el.style.top) + rect.height
-    });
+    positions.push({ x, y });
   });
+  return positions;
 }
 
 // Render songs
 function renderSongs(songs) {
-  const elements = songs.map((s) => {
+  const positions = generatePositions(songs);
+  songs.forEach((s, i) => {
     const el = document.createElement("div");
     el.className = "song";
+    el.style.left = positions[i].x + "px";
+    el.style.top = positions[i].y + "px";
     el.textContent = `${s.song} — ${s.artist}`;
     scene.appendChild(el);
-    return el;
   });
-
-  placeElements(elements);
 }
 
 // Fetch playlist.json and render
