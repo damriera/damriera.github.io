@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Spotify Playlist</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background: #121212;
+      color: #fff;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      text-align: center;
+      padding: 2rem 0;
+      background: #1db954;
+      font-size: 2rem;
+      font-weight: bold;
+    }
+
+    .playlist {
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+
+    .song {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 1rem;
+      margin-bottom: 1rem;
+      background: #181818;
+      border-radius: 10px;
+      transition: background 0.2s;
+    }
+
+    .song:hover {
+      background: #282828;
+    }
+
+    .song-info {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .song-title {
+      font-weight: bold;
+      font-size: 1.1rem;
+    }
+
+    .song-artist {
+      font-size: 0.9rem;
+      color: #b3b3b3;
+    }
+
+    .song a {
+      text-decoration: none;
+      color: #1db954;
+      font-weight: bold;
+    }
+
+    .song a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+<header>Vladi's Playlist</header>
+
+<div class="playlist" id="playlist"></div>
+
+<script>
+  // Fetch the JSON file
+  fetch('playlist.json')
+    .then(response => response.json())
+    .then(data => {
+      const playlistContainer = document.getElementById('playlist');
+
+      data.songs.forEach(song => {
+        const songDiv = document.createElement('div');
+        songDiv.className = 'song';
+
+        songDiv.innerHTML = `
+          <div class="song-info">
+            <div class="song-title">${song.title}</div>
+            <div class="song-artist">${song.artist}</div>
+          </div>
+          <a href="${song.url}" target="_blank">Listen</a>
+        `;
+
+        playlistContainer.appendChild(songDiv);
+      });
+    })
+    .catch(error => console.error('Error loading JSON:', error));
+</script>
+
+</body>
+</html>
