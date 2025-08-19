@@ -5,28 +5,18 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="icon" href="images/favicon.png">
         <link rel="stylesheet" href="style.css">
-        <title>Home Page</title>
+        <title>Paws at you :3</title>
     </head>
     <body>
-        <div class="container" id="container">
-            <div class="title">Home Page</div>
-            <div class="description">
-            Some random things I do
-            </div>
-            <div class="projects">
-            <div class="project"><a href="vladiplaylist/vladi_playlist.html">Vladi's Playlist</a></div>
+        <div id="viewport">
+            <div id="scene">
+
+            <div class="item" style="top:100px; left:100px;">Meow</div>
+            <div class="item" style="top:400px; left:200px;">Some random things I do :3</div>
+            <div class="item" style="top:200px; left:800px;"><a href="vladiplaylist/vladi_playlist.html">Vladi's Playlist</a></div>
             </div>
         </div>
 
-        <script>
-            const container = document.getElementById('container');
-
-            document.addEventListener('mousemove', (e) => {
-            const { innerWidth, innerHeight } = window;
-            const x = (e.clientX / innerWidth - 0.5) * 10; 
-            const y = -(e.clientY / innerHeight - 0.5) * 10; 
-            container.style.transform = `rotateY(${x}deg) rotateX(${y}deg)`;
-            });
-        </script>
+        <script src="script.js"></script>
         </body>
 </html>
