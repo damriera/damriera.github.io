@@ -1,54 +1,119 @@
+/* === Global Styles === */
 body {
   margin: 0;
   background: #0d0d0d;
-  color: white;
+  color: #fff;
   font-family: Arial, sans-serif;
   overflow: hidden;
 }
 
+/* === Main viewport (panning/zoom area) === */
 #viewport {
   width: 100vw;
   height: 100vh;
-  overflow: hidden;
   position: relative;
+  overflow: hidden;
   cursor: grab;
 }
 
-#scene {
-  position: absolute;
-  transform-origin: 0 0;
-  transition: transform 0.05s linear;
+/* === Welcome message in center === */
+#welcome-message {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 1.6rem;
+  text-align: center;
+  color: #fff;
+  opacity: 0;
+  animation: fadeIn 2s forwards;
+  pointer-events: none; /* prevent blocking drag/zoom */
 }
 
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+  }
+}
+
+/* === Songs === */
 .song {
   position: absolute;
   background: #1a1a1a;
   padding: 0.8rem 1.2rem;
-  border-radius: 8px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.5);
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.6);
   white-space: nowrap;
-  font-size: 0.9rem;
+  font-size: 0.95rem;
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  gap: 10px;
+  gap: 12px;
+  opacity: 0; /* fade-in later */
+  transition: opacity 0.5s ease-in, transform 0.2s ease;
+  z-index: 1; /* above lines */
 }
 
+.song.visible {
+  opacity: 1;
+}
+
+.song:hover {
+  transform: scale(1.05);
+}
+
+/* === Spotify button === */
 .spotify-btn {
-  background: #1DB954; /* Spotify green */
+  background: #1DB954;
   color: white;
   border-radius: 50%;
-  width: 28px;
-  height: 28px;
+  width: 30px;
+  height: 30px;
   display: flex;
   align-items: center;
   justify-content: center;
   text-decoration: none;
   font-size: 14px;
   font-weight: bold;
-  transition: background 0.3s ease;
+  transition: background 0.3s ease, transform 0.2s ease;
+  flex-shrink: 0;
 }
 
 .spotify-btn:hover {
   background: #17a94a;
+  transform: scale(1.15);
+}
+
+/* === Connections (SVG lines) === */
+#connections {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 2000px; /* large canvas, relative to scene */
+  height: 2000px;
+  pointer-events: none; /* clicks pass through */
+  z-index: 0; /* behind songs */
+}
+
+#connections polyline {
+  stroke: white;
+  stroke-width: 2;
+  fill: none;
+  filter: drop-shadow(0 0 6px rgba(255,255,255,0.7));
+  stroke-dasharray: 1000;
+  stroke-dashoffset: 1000;
+  animation: drawLine 0.5s linear forwards; /* faster line draw */
+}
+
+/* === Scene wrapper (everything transforms together) === */
+#scene {
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform-origin: 0 0;
+}
+
+@keyframes drawLine {
+  to {
+    stroke-dashoffset: 0;
+  }
 }
