@@ -43,10 +43,25 @@ function renderSongs(songs) {
     el.className = "song";
     el.style.left = positions[i].x + "px";
     el.style.top = positions[i].y + "px";
-    el.textContent = `${s.song} — ${s.artist}`;
+
+    // song text
+    const text = document.createElement("span");
+    text.textContent = `${s.title} — ${s.artist}`;
+
+    // spotify button
+    const btn = document.createElement("a");
+    btn.href = s.url;
+    btn.target = "_blank"; // open in new tab
+    btn.className = "spotify-btn";
+    btn.innerHTML = "▶"; // play symbol
+
+    el.appendChild(text);
+    el.appendChild(btn);
     scene.appendChild(el);
   });
 }
+
+
 
 // Fetch playlist.json and render
 fetch("playlist.json")

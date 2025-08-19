@@ -28,5 +28,27 @@ body {
   box-shadow: 0 4px 12px rgba(0,0,0,0.5);
   white-space: nowrap;
   font-size: 0.9rem;
-  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.spotify-btn {
+  background: #1DB954; /* Spotify green */
+  color: white;
+  border-radius: 50%;
+  width: 28px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: bold;
+  transition: background 0.3s ease;
+}
+
+.spotify-btn:hover {
+  background: #17a94a;
 }

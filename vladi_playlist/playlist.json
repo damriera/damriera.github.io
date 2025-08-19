@@ -1,8 +1,14 @@
 {
     "songs": [
         {
-            "song": "Timber",
-            "artist": "Pitbull; Kesha"
+            "title": "Don't Stop The Music",
+            "artist": "Rihanna",
+            "url": "https://open.spotify.com/track/0ByMNEPAPpOR5H69DVrTNy"
+        },
+        {
+            "title": "Just Dance",
+            "artist": "Lady Gaga; Colby O'Donis",
+            "url": "https://open.spotify.com/track/1dzQoRqT5ucxXVaAhTcT0J"
         }
     ]
 }
