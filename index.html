@@ -4,9 +4,29 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="icon" href="images/favicon.png">
+        <link rel="stylesheet" href="style.css">
         <title>Home Page</title>
     </head>
     <body>
-        <h1>Home Page</h1>
-    </body>
+        <div class="container" id="container">
+            <div class="title">Home Page</div>
+            <div class="description">
+            Some random things I do
+            </div>
+            <div class="projects">
+            <div class="project"><a href="vladiplaylist/vladi_playlist.html">Vladi's Playlist</a></div>
+            </div>
+        </div>
+
+        <script>
+            const container = document.getElementById('container');
+
+            document.addEventListener('mousemove', (e) => {
+            const { innerWidth, innerHeight } = window;
+            const x = (e.clientX / innerWidth - 0.5) * 20; 
+            const y = -(e.clientY / innerHeight - 0.5) * 20; 
+            container.style.transform = `rotateY(${x}deg) rotateX(${y}deg)`;
+            });
+        </script>
+        </body>
 </html>
