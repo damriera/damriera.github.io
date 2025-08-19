@@ -16,15 +16,15 @@ body {
   height: 100%;
   transform-style: preserve-3d;
   transition: transform 0.1s linear;
-  padding: 2rem;
+  padding: 7rem;
   box-sizing: border-box;
 }
 
 .title {
   position: absolute;
-  top: 2rem;
-  left: 2rem;
-  font-size: 2.5rem;
+  top: 7rem;
+  left: 7rem;
+  font-size: 4rem;
   font-weight: bold;
   opacity: 0;
   animation: fadeIn 2s forwards;
@@ -33,10 +33,10 @@ body {
 .description {
   position: absolute;
   top: 50%;
-  left: 2rem;
+  left: 7rem;
   transform: translateY(-50%);
   max-width: 300px;
-  font-size: 1.2rem;
+  font-size: 2.2rem;
   line-height: 1.6;
   opacity: 0;
   animation: fadeIn 2s 0.5s forwards;
@@ -45,7 +45,7 @@ body {
 .projects {
   position: absolute;
   top: 25%;
-  right: 2rem;
+  right: 7rem;
   display: grid;
   grid-template-columns: 1fr;
   gap: 1rem;

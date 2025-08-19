@@ -23,8 +23,8 @@
 
             document.addEventListener('mousemove', (e) => {
             const { innerWidth, innerHeight } = window;
-            const x = (e.clientX / innerWidth - 0.5) * 20; 
-            const y = -(e.clientY / innerHeight - 0.5) * 20; 
+            const x = (e.clientX / innerWidth - 0.5) * 10; 
+            const y = -(e.clientY / innerHeight - 0.5) * 10; 
             container.style.transform = `rotateY(${x}deg) rotateX(${y}deg)`;
             });
         </script>
