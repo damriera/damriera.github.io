@@ -1,18 +1,58 @@
 body {
   margin: 0;
-  background: #0d0d0d;
+  background: #0d0d0d; /* keep this */
   color: white;
   font-family: Arial, sans-serif;
   overflow: hidden;
 }
 
-#viewport {
-  width: 100vw;
-  height: 100vh;
+
+#cosmic-background {
+  position: absolute;
+  inset: 0;
+  z-index: -1;
   overflow: hidden;
-  position: relative;
-  cursor: grab;
+  background: #0d0d0d; /* keep your dark base */
 }
+
+.burst {
+  position: absolute;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transform: scale(0.5);
+  animation: burst-life 8s ease-out forwards;
+}
+
+.burst::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  background: radial-gradient(circle, var(--glow-color, rgba(255,255,255,0.9)), transparent 70%);
+  filter: blur(20px);
+}
+
+.burst-logo {
+  position: relative;
+  width: 30%;       /* scales logo inside burst */
+  height: auto;
+  z-index: 2;
+  filter: drop-shadow(0 0 6px white);
+  pointer-events: none; /* so clicks go through */
+}
+
+@keyframes burst-life {
+  0%   { opacity: 0; transform: scale(0.5); }
+  20%  { opacity: 1; transform: scale(1.2); }
+  60%  { opacity: 0.9; transform: scale(1.5); }
+  100% { opacity: 0; transform: scale(2); }
+}
+
+
+
 
 #scene {
   position: absolute;

@@ -128,3 +128,40 @@ function updateTransform() {
 
 // Initial transform
 updateTransform();
+
+
+const cosmic = document.getElementById("cosmic-background");
+
+function createBurst() {
+  const burst = document.createElement("div");
+  burst.className = "burst";
+
+  const size = Math.random() * 150 + 120; // 120–270px
+  burst.style.width = size + "px";
+  burst.style.height = size + "px";
+
+  burst.style.left = Math.random() * 100 + "vw";
+  burst.style.top = Math.random() * 100 + "vh";
+
+  // Pick a glow color
+  const colors = [
+    "rgba(255,255,255,0.8)",
+    "rgba(173,216,230,0.8)",  // light blue
+    "rgba(255,182,193,0.8)",  // pink
+    "rgba(200,200,255,0.8)"   // violet
+  ];
+  burst.style.setProperty("--glow-color", colors[Math.floor(Math.random() * colors.length)]);
+
+  // Add logo
+  const logo = document.createElement("img");
+  logo.className = "burst-logo";
+  logo.src = "../images/KC_logo.png"; 
+  burst.appendChild(logo);
+
+  cosmic.appendChild(burst);
+
+  setTimeout(() => burst.remove(), 8000);
+}
+
+setInterval(createBurst, 4000); // one burst every 4s
+
