@@ -156,12 +156,14 @@ function createBurst() {
   const logo = document.createElement("img");
   logo.className = "burst-logo";
   logo.src = "../images/KC_logo.png"; 
-  burst.appendChild(logo);
+  if (Math.random() < 0.05) { // 5% chance
+    burst.appendChild(logo);
+  }
 
   cosmic.appendChild(burst);
 
   setTimeout(() => burst.remove(), 8000);
 }
 
-setInterval(createBurst, 4000); // one burst every 4s
+setInterval(createBurst, Math.random() * 4000 + 100); // one burst every .1-4s
 

@@ -37,7 +37,7 @@ body {
 
 .burst-logo {
   position: relative;
-  width: 30%;       /* scales logo inside burst */
+  width: 10%;       /* scales logo inside burst */
   height: auto;
   z-index: 2;
   filter: drop-shadow(0 0 6px white);
