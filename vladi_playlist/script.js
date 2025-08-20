@@ -165,8 +165,5 @@ function createBurst() {
   setTimeout(() => burst.remove(), 8000);
 }
 
-While (true) {
-  createBurst();
-  await new Promise(resolve => setTimeout(resolve, Math.random() * 4000 + 100));
-}
+setInterval(createBurst, 1000); // one burst every 1s
 
