@@ -7,7 +7,7 @@ let originY = 0;
 let isDragging = false;
 let startX, startY;
 
-function generatePositions(elements, clusterSize = 2000, padding = 80) {
+function generatePositions(elements, clusterSize, padding = 80) {
   const positions = [];
 
   elements.forEach(el => {
@@ -74,7 +74,11 @@ function renderSongs(songs) {
     return el;
   });
 
-  generatePositions(elements); // positions elements without overlap
+  // scale clusterSize based on song count
+  const baseClusterSize = 2500; 
+  const clusterSize = baseClusterSize * (songs.length / 50);
+
+  generatePositions(elements, clusterSize); // pass clusterSize
 }
 
 
@@ -86,6 +90,7 @@ fetch("playlist.json")
     renderSongs(data.songs);
   })
   .catch(err => console.error("Error loading playlist:", err));
+
 
 // Zoom with scroll
 document.addEventListener("wheel", (e) => {
