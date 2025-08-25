@@ -74,13 +74,17 @@ function renderSongs(songs) {
     return el;
   });
 
-  // scale clusterSize based on song count
-  const baseClusterSize = 2500; 
-  const clusterSize = baseClusterSize * (songs.length / 50);
+  const clusterSize = getClusterSize(songs.length);
 
   generatePositions(elements, clusterSize); // pass clusterSize
 }
 
+
+function getClusterSize(songCount) {
+  const baseClusterSize = 2500;
+  const scale = Math.sqrt(songCount / 50);
+  return Math.round(baseClusterSize * scale);
+}
 
 
 // Fetch playlist.json and render
