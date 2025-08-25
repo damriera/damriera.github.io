@@ -1,0 +1,19 @@
+{
+    "songs": [
+        {
+            "title": "Carousel",
+            "artist": "Laufey",
+            "url": "https://open.spotify.com/track/1f1v2sHXpFFtjxB8KVKypW"
+        },
+        {
+            "title": "30/90",
+            "artist": "Andrew Garfield; Joshua Henry; Vanessa Hudgens; Robin de Jesus; Alexandra Shipp",
+            "url": "https://open.spotify.com/track/55MIRLbZzpYSmMlRt9ZDWM"
+        },
+        {
+            "title": "Requiem",
+            "artist": "Laura Dreyfuss; Michael Park; Jennifer Laura Thompson",
+            "url": "https://open.spotify.com/track/4BoTrCdVPZHU4iBC0kcid7"
+        }
+    ]
+}

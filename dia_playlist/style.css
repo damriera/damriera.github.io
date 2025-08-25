@@ -1,0 +1,94 @@
+body {
+  margin: 0;
+  background: #0d0d0d; /* keep this */
+  color: white;
+  font-family: Arial, sans-serif;
+  overflow: hidden;
+}
+
+
+#cosmic-background {
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  overflow: hidden;
+  background: #0d0d0d; /* keep your dark base */
+}
+
+.burst {
+  position: absolute;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transform: scale(0.5);
+  animation: burst-life 8s ease-out forwards;
+}
+
+.burst::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  background: radial-gradient(circle, var(--glow-color, rgba(255,255,255,0.9)), transparent 70%);
+  filter: blur(20px);
+}
+
+.burst-logo {
+  position: relative;
+  width: 10%;       /* scales logo inside burst */
+  height: auto;
+  z-index: 2;
+  filter: drop-shadow(0 0 6px white);
+  pointer-events: none; /* so clicks go through */
+}
+
+@keyframes burst-life {
+  0%   { opacity: 0; transform: scale(0.5); }
+  20%  { opacity: 1; transform: scale(1.2); }
+  60%  { opacity: 0.9; transform: scale(1.5); }
+  100% { opacity: 0; transform: scale(2); }
+}
+
+
+
+
+#scene {
+  position: absolute;
+  transform-origin: 0 0;
+  transition: transform 0.05s linear;
+}
+
+.song {
+  position: absolute;
+  background: #1a1a1a;
+  padding: 0.8rem 1.2rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.5);
+  white-space: nowrap;
+  font-size: 0.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.spotify-btn {
+  background: #1DB954; /* Spotify green */
+  color: white;
+  border-radius: 50%;
+  width: 28px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: bold;
+  transition: background 0.3s ease;
+}
+
+.spotify-btn:hover {
+  background: #17a94a;
+}
