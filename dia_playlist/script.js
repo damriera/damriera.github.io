@@ -167,7 +167,7 @@ function createBurst() {
   logo.className = "burst-logo";
   logo.src = "../images/KC_logo.png"; 
   if (Math.random() < 0.05) { // 5% chance
-    burst.appendChild(logo);
+    // burst.appendChild(logo);
   }
 
   cosmic.appendChild(burst);
