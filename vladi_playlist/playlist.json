@@ -3,792 +3,1088 @@
         {
             "title": "Don't Stop The Music",
             "artist": "Rihanna",
-            "url": "https://open.spotify.com/track/0ByMNEPAPpOR5H69DVrTNy"
+            "url": "https://open.spotify.com/track/0ByMNEPAPpOR5H69DVrTNy",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98"
         },
         {
             "title": "Just Dance",
             "artist": "Lady Gaga; Colby O'Donis",
-            "url": "https://open.spotify.com/track/1dzQoRqT5ucxXVaAhTcT0J"
+            "url": "https://open.spotify.com/track/1dzQoRqT5ucxXVaAhTcT0J",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273e691217483df8798445c82e2"
         },
         {
             "title": "No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)",
             "artist": "DJ Khaled; Justin Bieber; Chance the Rapper; Quavo",
-            "url": "https://open.spotify.com/track/6fRgwFz40hXUjtLorkF1Qb"
+            "url": "https://open.spotify.com/track/6fRgwFz40hXUjtLorkF1Qb",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273315cc46f992d23b8864b3482"
         },
         {
             "title": "Want to Want Me",
             "artist": "Jason Derulo",
-            "url": "https://open.spotify.com/track/7oGZAicScQt96OAW4AruYy"
+            "url": "https://open.spotify.com/track/7oGZAicScQt96OAW4AruYy",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273519241bcfc352fc3eaaac5db"
         },
         {
             "title": "Paris",
             "artist": "The Chainsmokers",
-            "url": "https://open.spotify.com/track/72jbDTw1piOOj770jWNeaG"
+            "url": "https://open.spotify.com/track/72jbDTw1piOOj770jWNeaG",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2730c13d3d5a503c84fcc60ae94"
         },
         {
             "title": "One Dance",
             "artist": "Drake; Wizkid; Kyla",
-            "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
+            "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2739416ed64daf84936d89e671c"
         },
         {
             "title": "Psycho",
             "artist": "Post Malone; Ty Dolla $ign",
-            "url": "https://open.spotify.com/track/0lQDyILirDgaXt81H5w8tt"
+            "url": "https://open.spotify.com/track/0lQDyILirDgaXt81H5w8tt",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2737ef222cb1658f0646b4559a9"
         },
         {
             "title": "Just the Way You Are",
             "artist": "Bruno Mars",
-            "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
+            "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b"
         },
         {
             "title": "Thunder",
             "artist": "Imagine Dragons",
-            "url": "https://open.spotify.com/track/5VnDkUNyX6u5Sk0yZiP8XB"
+            "url": "https://open.spotify.com/track/5VnDkUNyX6u5Sk0yZiP8XB",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2739cc9c2489710c634796e7f72"
         },
         {
             "title": "Lying (feat. Lil Tjay)",
             "artist": "PRETTYMUCH; Lil Tjay",
-            "url": "https://open.spotify.com/track/6x8V3kUNlhVbwRbVP0QeSS"
+            "url": "https://open.spotify.com/track/6x8V3kUNlhVbwRbVP0QeSS",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2735da74c0babeabb6a820894e6"
         },
         {
             "title": "Candy Paint",
             "artist": "Post Malone",
-            "url": "https://open.spotify.com/track/5wN7W4SMpPsV2PyrzLe574"
+            "url": "https://open.spotify.com/track/5wN7W4SMpPsV2PyrzLe574",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273466b7d3a6fac076880a37a8f"
         },
         {
             "title": "Bad Things (with Camila Cabello)",
             "artist": "mgk; Camila Cabello",
-            "url": "https://open.spotify.com/track/1PSBzsahR2AKwLJgx8ehBj"
+            "url": "https://open.spotify.com/track/1PSBzsahR2AKwLJgx8ehBj",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273748388a726648841ed81027e"
         },
         {
             "title": "Scared to Be Lonely",
             "artist": "Martin Garrix; Dua Lipa",
-            "url": "https://open.spotify.com/track/3ebXMykcMXOcLeJ9xZ17XH"
+            "url": "https://open.spotify.com/track/3ebXMykcMXOcLeJ9xZ17XH",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27364f8a309aa3c0a66a31fc374"
         },
         {
             "title": "Where Are \u00dc Now (with Justin Bieber)",
             "artist": "Jack \u00dc; Skrillex; Diplo; Justin Bieber",
-            "url": "https://open.spotify.com/track/66hayvUbTotekKU3H4ta1f"
+            "url": "https://open.spotify.com/track/66hayvUbTotekKU3H4ta1f",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27357fc4730e06c9ab20c1e073b"
         },
         {
             "title": "Heroes (we could be)",
             "artist": "Alesso; Tove Lo",
-            "url": "https://open.spotify.com/track/3zU9rdflI65tK4dkkNSp77"
+            "url": "https://open.spotify.com/track/3zU9rdflI65tK4dkkNSp77",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273b804bbd11f864902d452b3a7"
         },
         {
             "title": "Uptown Funk (feat. Bruno Mars)",
             "artist": "Mark Ronson; Bruno Mars",
-            "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
+            "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273e419ccba0baa8bd3f3d7abf2"
         },
         {
             "title": "Catch My Breath",
             "artist": "Kelly Clarkson",
-            "url": "https://open.spotify.com/track/5qxPabNDnJQ551Tf4v6k3j"
+            "url": "https://open.spotify.com/track/5qxPabNDnJQ551Tf4v6k3j",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2737c5196593b6ab9382a794d26"
         },
         {
             "title": "Issues",
             "artist": "Julia Michaels",
-            "url": "https://open.spotify.com/track/6AeQlMyRzvSl1nkFztZyKl"
+            "url": "https://open.spotify.com/track/6AeQlMyRzvSl1nkFztZyKl",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27358d7eee1d5ac9af08ffd8a9c"
         },
         {
             "title": "Never Forget You",
             "artist": "Zara Larsson; MNEK",
-            "url": "https://open.spotify.com/track/6v4F5IaKUITBPzt2wztoiZ"
+            "url": "https://open.spotify.com/track/6v4F5IaKUITBPzt2wztoiZ",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27348e0a88c5eef77c6bb3034a0"
         },
         {
             "title": "Cold Water (feat. Justin Bieber & M\u00d8)",
             "artist": "Major Lazer; Justin Bieber; M\u00d8",
-            "url": "https://open.spotify.com/track/6DNtNfH8hXkqOX1sjqmI7p"
+            "url": "https://open.spotify.com/track/6DNtNfH8hXkqOX1sjqmI7p",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2732e8f1cca2bc8c9d55930523b"
         },
         {
             "title": "I Don't Like It, I Love It (feat. Robin Thicke & Verdine White)",
             "artist": "Flo Rida; Robin Thicke; Verdine White",
-            "url": "https://open.spotify.com/track/2S5LNtRVRPbXk01yRQ14sZ"
+            "url": "https://open.spotify.com/track/2S5LNtRVRPbXk01yRQ14sZ",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2737947bf3e8af32378de181b41"
         },
         {
             "title": "Rather Be (feat. Jess Glynne)",
             "artist": "Clean Bandit; Jess Glynne",
-            "url": "https://open.spotify.com/track/3s4U7OHV7gnj42VV72eSZ6"
+            "url": "https://open.spotify.com/track/3s4U7OHV7gnj42VV72eSZ6",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2737e519297d9876b6afff2ab7b"
         },
         {
             "title": "Wake Me Up",
             "artist": "Avicii",
-            "url": "https://open.spotify.com/track/4h8VwCb1MTGoLKueQ1WgbD"
+            "url": "https://open.spotify.com/track/4h8VwCb1MTGoLKueQ1WgbD",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2734cfcceb6f9b1aae8752810e7"
         },
         {
             "title": "10,000 Hours (with Justin Bieber)",
             "artist": "Dan + Shay; Justin Bieber",
-            "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
+            "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27386953b1cbaa29e477db0b479"
         },
         {
             "title": "Perfect",
             "artist": "Ed Sheeran",
-            "url": "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v"
+            "url": "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96"
         },
         {
             "title": "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",
             "artist": "Calvin Harris; Pharrell Williams; Katy Perry; Big Sean",
-            "url": "https://open.spotify.com/track/2zxxxCNSP3mUngFoF4Fnxd"
+            "url": "https://open.spotify.com/track/2zxxxCNSP3mUngFoF4Fnxd",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2730e46960707a051199917b50e"
         },
         {
             "title": "Chained To The Rhythm",
             "artist": "Katy Perry; Skip Marley",
-            "url": "https://open.spotify.com/track/0eME2QCeBseI7Qt7IwG3Vw"
+            "url": "https://open.spotify.com/track/0eME2QCeBseI7Qt7IwG3Vw",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27340ba29fdaa4c1b237c240d61"
         },
         {
             "title": "Don't Let Me Down",
             "artist": "The Chainsmokers; Daya",
-            "url": "https://open.spotify.com/track/1i1fxkWeaMmKEB4T7zqbzK"
+            "url": "https://open.spotify.com/track/1i1fxkWeaMmKEB4T7zqbzK",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27302df2d642b572cf4f284a5c3"
         },
         {
             "title": "Boy With Luv (feat. Halsey)",
             "artist": "BTS; Halsey",
-            "url": "https://open.spotify.com/track/5KawlOMHjWeUjQtnuRs22c"
+            "url": "https://open.spotify.com/track/5KawlOMHjWeUjQtnuRs22c",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27329d00196831bec20ebbff5c7"
         },
         {
             "title": "Trafficante",
             "artist": "SNIK; VLOSPA; Oge",
-            "url": "https://open.spotify.com/track/4sHGVE7twEnFddJ3DqyWXs"
+            "url": "https://open.spotify.com/track/4sHGVE7twEnFddJ3DqyWXs",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273202e08a6d5cda5696a53a1dd"
         },
         {
             "title": "Erotas",
             "artist": "SNIK",
-            "url": "https://open.spotify.com/track/2cifyEzKCLTCc8ZWkJpL3X"
+            "url": "https://open.spotify.com/track/2cifyEzKCLTCc8ZWkJpL3X",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2735b4591fdf96e46314952771e"
         },
         {
             "title": "Provlimata",
             "artist": "APON",
-            "url": "https://open.spotify.com/track/0SwDKWxXKHKGSKXrLtA0xH"
+            "url": "https://open.spotify.com/track/0SwDKWxXKHKGSKXrLtA0xH",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273a3374bda562dcfb68caedc1b"
         },
         {
             "title": "Ju Ju",
             "artist": "Sin Boy; Skerdi",
-            "url": "https://open.spotify.com/track/49LWrObAii3cOSinobeSqj"
+            "url": "https://open.spotify.com/track/49LWrObAii3cOSinobeSqj",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273ea5853a71b392c36d6e27692"
         },
         {
             "title": "Obsessed",
             "artist": "Light; Fy; Trannos",
-            "url": "https://open.spotify.com/track/4zkf3cqXpgTWy8K0bdfLEs"
+            "url": "https://open.spotify.com/track/4zkf3cqXpgTWy8K0bdfLEs",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273e7741b71e1f130c2ccd94f53"
         },
         {
             "title": "0-100",
             "artist": "Fy",
-            "url": "https://open.spotify.com/track/72J02GDQhWQGxCQWFbR3SO"
+            "url": "https://open.spotify.com/track/72J02GDQhWQGxCQWFbR3SO",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2739f0b7888a41951cbf53ee809"
         },
         {
             "title": "Etsi",
             "artist": "SNIK",
-            "url": "https://open.spotify.com/track/73d7q3kVVIgfCUK07bVIVH"
+            "url": "https://open.spotify.com/track/73d7q3kVVIgfCUK07bVIVH",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273606d90d4b538c4df802ca498"
         },
         {
             "title": "KOUKLA",
             "artist": "Sicario; Beyond",
-            "url": "https://open.spotify.com/track/2OtlJi8vzajxp51W9gYwCO"
+            "url": "https://open.spotify.com/track/2OtlJi8vzajxp51W9gYwCO",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273e5df4fcc89ade3fd6fbb8399"
         },
         {
             "title": "#31#",
             "artist": "Sin Boy",
-            "url": "https://open.spotify.com/track/4ds6k3is0RNjqZoZC8T9z7"
+            "url": "https://open.spotify.com/track/4ds6k3is0RNjqZoZC8T9z7",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2738196b2f3965f0308b0f0fc64"
         },
         {
             "title": "24hrs",
             "artist": "Light; Trannos",
-            "url": "https://open.spotify.com/track/13Z7q7uTvkAK3qPN2jkDls"
+            "url": "https://open.spotify.com/track/13Z7q7uTvkAK3qPN2jkDls",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273e7741b71e1f130c2ccd94f53"
         },
         {
             "title": "Dominicana Latina",
             "artist": "SNIK; SALVA",
-            "url": "https://open.spotify.com/track/2OHRc3BN8NDZ6j2sCleBp4"
+            "url": "https://open.spotify.com/track/2OHRc3BN8NDZ6j2sCleBp4",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27335f46e86c136bc4d7021b36c"
         },
         {
             "title": "Gdysou",
             "artist": "APON; \u0395\u03bb\u03ad\u03bd\u03b7 \u03a6\u03bf\u03c5\u03c1\u03ad\u03b9\u03c1\u03b1",
-            "url": "https://open.spotify.com/track/0jVTOnmmmhhbgriZBBV0JC"
+            "url": "https://open.spotify.com/track/0jVTOnmmmhhbgriZBBV0JC",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273b8321b09856128ee6f1eec02"
         },
         {
             "title": "FWTIA",
             "artist": "Sicario; Beyond",
-            "url": "https://open.spotify.com/track/4NJzucf3s44ZN2E7kcoE0a"
+            "url": "https://open.spotify.com/track/4NJzucf3s44ZN2E7kcoE0a",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273e5df4fcc89ade3fd6fbb8399"
         },
         {
             "title": "Eimai Allou",
             "artist": "Melisses",
-            "url": "https://open.spotify.com/track/5pQliSFzHXY4v8MgSKlBsa"
+            "url": "https://open.spotify.com/track/5pQliSFzHXY4v8MgSKlBsa",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273b160940274f04577b4aaf045"
         },
         {
             "title": "Mama?",
             "artist": "Sin Boy; Mad Clip; Ypo; iLLEOo",
-            "url": "https://open.spotify.com/track/6m69YzoQgEkhPnWIhXswcJ"
+            "url": "https://open.spotify.com/track/6m69YzoQgEkhPnWIhXswcJ",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2738196b2f3965f0308b0f0fc64"
         },
         {
             "title": "GANGSTA",
             "artist": "SNIK; A!MS",
-            "url": "https://open.spotify.com/track/56hwvng962V4BzUvAuVtAC"
+            "url": "https://open.spotify.com/track/56hwvng962V4BzUvAuVtAC",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273b0133cc97992c583453e1497"
         },
         {
             "title": "Mporei",
             "artist": "Mad Clip; \u0395\u03bb\u03ad\u03bd\u03b7 \u03a6\u03bf\u03c5\u03c1\u03ad\u03b9\u03c1\u03b1; Skive",
-            "url": "https://open.spotify.com/track/7raprblR3NfeuiV72Lz5Il"
+            "url": "https://open.spotify.com/track/7raprblR3NfeuiV72Lz5Il",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2733fcac7ad7915479405e527e0"
         },
         {
             "title": "Poso?",
             "artist": "Konstantinos Argiros",
-            "url": "https://open.spotify.com/track/0ZL8evDYp5hVE8cbpunQqA"
+            "url": "https://open.spotify.com/track/0ZL8evDYp5hVE8cbpunQqA",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27381f9c5d4dd3485e8027eb65b"
         },
         {
             "title": "AUTOS",
             "artist": "Sicario; Beyond",
-            "url": "https://open.spotify.com/track/3K0brvOrbwMuHKswfdEzjd"
+            "url": "https://open.spotify.com/track/3K0brvOrbwMuHKswfdEzjd",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273e5df4fcc89ade3fd6fbb8399"
         },
         {
             "title": "Ya Habibi",
             "artist": "Kings; \u0394\u03ad\u03c3\u03c0\u03bf\u03b9\u03bd\u03b1 \u0392\u03b1\u03bd\u03b4\u03ae; Teo Tzimas",
-            "url": "https://open.spotify.com/track/3KbsHO7QNkczE8Rz66y3ks"
+            "url": "https://open.spotify.com/track/3KbsHO7QNkczE8Rz66y3ks",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273056764c1db8a64e020a4c143"
         },
         {
             "title": "OAED - Remix",
             "artist": "SNIK; TOQUEL; Voyage; Ivan Greko; BeTaf Beats",
-            "url": "https://open.spotify.com/track/0DRBuH0O3Uh6YqJWMAjHLl"
+            "url": "https://open.spotify.com/track/0DRBuH0O3Uh6YqJWMAjHLl",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27374273ef2a6d245ff39bd044b"
         },
         {
             "title": "Nisi",
             "artist": "Fy; Mc Daddy; Display",
-            "url": "https://open.spotify.com/track/6Mi6BXluz8E6gdjctqCdhh"
+            "url": "https://open.spotify.com/track/6Mi6BXluz8E6gdjctqCdhh",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273e9a48ab5beb9bd8bf5bc801d"
         },
         {
             "title": "Hymn for the Weekend",
             "artist": "Coldplay",
-            "url": "https://open.spotify.com/track/7qEDt3SXkxD2dGx6Kx7p5g"
+            "url": "https://open.spotify.com/track/7qEDt3SXkxD2dGx6Kx7p5g",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2735ea8ac453672af00aea6d950"
         },
         {
             "title": "Cheerleader (Felix Jaehn Remix) - Radio Edit",
             "artist": "OMI",
-            "url": "https://open.spotify.com/track/023OVLNzXhX0j7CxswUt6D"
+            "url": "https://open.spotify.com/track/023OVLNzXhX0j7CxswUt6D",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2731c61cec78c70409b783d1480"
         },
         {
             "title": "Starving",
             "artist": "Hailee Steinfeld; Grey; Zedd",
-            "url": "https://open.spotify.com/track/2zDt2TfQbxiSPjTVJTgbwz"
+            "url": "https://open.spotify.com/track/2zDt2TfQbxiSPjTVJTgbwz",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273730f8351fee266b18e935f5b"
         },
         {
             "title": "It Ain't Me (with Selena Gomez)",
             "artist": "Kygo; Selena Gomez",
-            "url": "https://open.spotify.com/track/3eR23VReFzcdmS7TYCrhCe"
+            "url": "https://open.spotify.com/track/3eR23VReFzcdmS7TYCrhCe",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27341f289940f2e6a0d51988d77"
         },
         {
             "title": "Time of Our Lives",
             "artist": "Pitbull; Ne-Yo",
-            "url": "https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r"
+            "url": "https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2731e340d1480e7bb29a45e3bd7"
         },
         {
             "title": "Back To You",
             "artist": "Selena Gomez",
-            "url": "https://open.spotify.com/track/514rhnksEwHUh6LxXsQ4Y9"
+            "url": "https://open.spotify.com/track/514rhnksEwHUh6LxXsQ4Y9",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273acc995be2b5bdc62d622ccd3"
         },
         {
             "title": "Despacito - Remix",
             "artist": "Luis Fonsi; Daddy Yankee; Justin Bieber",
-            "url": "https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2"
+            "url": "https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273a6a335d613d151c626895a83"
         },
         {
             "title": "Call Me Maybe",
             "artist": "Carly Rae Jepsen",
-            "url": "https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO"
+            "url": "https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273d3ee4bf67c2ac2154006ad72"
         },
         {
             "title": "Pompeii",
             "artist": "Bastille",
-            "url": "https://open.spotify.com/track/3gbBpTdY8lnQwqxNCcf795"
+            "url": "https://open.spotify.com/track/3gbBpTdY8lnQwqxNCcf795",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273258225089decfb3d5c3718d3"
         },
         {
             "title": "Roses",
             "artist": "The Chainsmokers; ROZES",
-            "url": "https://open.spotify.com/track/3vv9phIu6Y1vX3jcqaGz5Z"
+            "url": "https://open.spotify.com/track/3vv9phIu6Y1vX3jcqaGz5Z",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2738d2cfad007b9431f48aef135"
         },
         {
             "title": "All Time Low",
             "artist": "Jon Bellion",
-            "url": "https://open.spotify.com/track/7eFWdYZwJxWfH12Rs4ipCp"
+            "url": "https://open.spotify.com/track/7eFWdYZwJxWfH12Rs4ipCp",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27320ba0e47a2bf48de07ac88d0"
         },
         {
             "title": "Kill Em With Kindness",
             "artist": "Selena Gomez",
-            "url": "https://open.spotify.com/track/7KxhSJOYiqCDclXDBNlFSZ"
+            "url": "https://open.spotify.com/track/7KxhSJOYiqCDclXDBNlFSZ",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2736bc7473df6c9d1fd90972e84"
         },
         {
             "title": "Night Changes",
             "artist": "One Direction",
-            "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ"
+            "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273d304ba2d71de306812eebaf4"
         },
         {
             "title": "Let Me Love You",
             "artist": "DJ Snake; Justin Bieber",
-            "url": "https://open.spotify.com/track/4pdPtRcBmOSQDlJ3Fk945m"
+            "url": "https://open.spotify.com/track/4pdPtRcBmOSQDlJ3Fk945m",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2735045de6786e0af096de73ed4"
         },
         {
             "title": "Nothin' on You (feat. Bruno Mars)",
             "artist": "B.o.B; Bruno Mars",
-            "url": "https://open.spotify.com/track/59dLtGBS26x7kc0rHbaPrq"
+            "url": "https://open.spotify.com/track/59dLtGBS26x7kc0rHbaPrq",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273484d121f0e2d2caf87d5d10b"
         },
         {
             "title": "Let Me Go (with Alesso, Florida Georgia Line & watt)",
             "artist": "Hailee Steinfeld; Alesso; Florida Georgia Line; WATT",
-            "url": "https://open.spotify.com/track/5Gu0PDLN4YJeW75PpBSg9p"
+            "url": "https://open.spotify.com/track/5Gu0PDLN4YJeW75PpBSg9p",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273523eb48df1fa22b6d450833e"
         },
         {
             "title": "Beautiful (feat. Camila Cabello)",
             "artist": "Bazzi; Camila Cabello",
-            "url": "https://open.spotify.com/track/4VUwkH455At9kENOfzTqmF"
+            "url": "https://open.spotify.com/track/4VUwkH455At9kENOfzTqmF",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27305559264ebef3889709826cf"
         },
         {
             "title": "Dynamite",
             "artist": "BTS",
-            "url": "https://open.spotify.com/track/4saklk6nie3yiGePpBwUoc"
+            "url": "https://open.spotify.com/track/4saklk6nie3yiGePpBwUoc",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2733deb4b0115410a85afe31c29"
         },
         {
             "title": "That's What I Like",
             "artist": "Bruno Mars",
-            "url": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
+            "url": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5"
         },
         {
             "title": "End Game",
             "artist": "Taylor Swift; Ed Sheeran; Future",
-            "url": "https://open.spotify.com/track/2x0WlnmfG39ZuDmstl9xfX"
+            "url": "https://open.spotify.com/track/2x0WlnmfG39ZuDmstl9xfX",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b"
         },
         {
             "title": "Work from Home (feat. Ty Dolla $ign)",
             "artist": "Fifth Harmony; Ty Dolla $ign",
-            "url": "https://open.spotify.com/track/1JsUAmsjNz6oGuRTFG93qH"
+            "url": "https://open.spotify.com/track/1JsUAmsjNz6oGuRTFG93qH",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273f1bb8f747ca5103731afd77e"
         },
         {
             "title": "Weak",
             "artist": "AJR",
-            "url": "https://open.spotify.com/track/3BuLtAmXKy5uQYl4ED1zBT"
+            "url": "https://open.spotify.com/track/3BuLtAmXKy5uQYl4ED1zBT",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273fb9366711c6cadb7736f36c8"
         },
         {
             "title": "Closer",
             "artist": "The Chainsmokers; Halsey",
-            "url": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw"
+            "url": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273495ce6da9aeb159e94eaa453"
         },
         {
             "title": "Symphony (feat. Zara Larsson)",
             "artist": "Clean Bandit; Zara Larsson",
-            "url": "https://open.spotify.com/track/1x5sYLZiu9r5E43kMlt9f8"
+            "url": "https://open.spotify.com/track/1x5sYLZiu9r5E43kMlt9f8",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2735b1130d050c4cd2295999d85"
         },
         {
             "title": "Love You Like A Love Song",
             "artist": "Selena Gomez & The Scene",
-            "url": "https://open.spotify.com/track/5IpKZbfJNefqY6nMejBHjr"
+            "url": "https://open.spotify.com/track/5IpKZbfJNefqY6nMejBHjr",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273cf21fb3f352ad42cddc8931f"
         },
         {
             "title": "Blinding Lights",
             "artist": "The Weeknd",
-            "url": "https://open.spotify.com/track/0sf12qNH5qcw8qpgymFOqD"
+            "url": "https://open.spotify.com/track/0sf12qNH5qcw8qpgymFOqD",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273c464fabb4e51b72d657f779a"
         },
         {
             "title": "Faded",
             "artist": "Alan Walker",
-            "url": "https://open.spotify.com/track/7gHs73wELdeycvS48JfIos"
+            "url": "https://open.spotify.com/track/7gHs73wELdeycvS48JfIos",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273c4d00cac55ae1b4598c9bc90"
         },
         {
             "title": "Castle on the Hill",
             "artist": "Ed Sheeran",
-            "url": "https://open.spotify.com/track/6PCUP3dWmTjcTtXY02oFdT"
+            "url": "https://open.spotify.com/track/6PCUP3dWmTjcTtXY02oFdT",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96"
         },
         {
             "title": "One Last Time",
             "artist": "Ariana Grande",
-            "url": "https://open.spotify.com/track/7bJwvubZZaoGE1AGEfu8Fi"
+            "url": "https://open.spotify.com/track/7bJwvubZZaoGE1AGEfu8Fi",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2731254a60895a75d37796045c8"
         },
         {
             "title": "Attention",
             "artist": "Charlie Puth",
-            "url": "https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50"
+            "url": "https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273897f73256b9128a9d70eaf66"
         },
         {
             "title": "Ride",
             "artist": "Twenty One Pilots",
-            "url": "https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW"
+            "url": "https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2732df0d98a423025032d0db1f7"
         },
         {
             "title": "Walking On A Dream",
             "artist": "Empire Of The Sun",
-            "url": "https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ"
+            "url": "https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273f3aa0e6ca22a382007f61e4d"
         },
         {
             "title": "Pray For Me",
             "artist": "The Weeknd; Kendrick Lamar",
-            "url": "https://open.spotify.com/track/5k9YFf1kIUBHs8vlZXYJTQ"
+            "url": "https://open.spotify.com/track/5k9YFf1kIUBHs8vlZXYJTQ",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273132072fa796787ddd6325a6d"
         },
         {
             "title": "What Makes You Beautiful",
             "artist": "One Direction",
-            "url": "https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo"
+            "url": "https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2734a5584795dc73860653a9a3e"
         },
         {
             "title": "You Make Me Feel... (feat. Sabi)",
             "artist": "Cobra Starship; Sabi",
-            "url": "https://open.spotify.com/track/16Of7eeW44kt0a1M0nitHM"
+            "url": "https://open.spotify.com/track/16Of7eeW44kt0a1M0nitHM",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273a4c01842096428fb14859bdc"
         },
         {
             "title": "LOVE. FEAT. ZACARI.",
             "artist": "Kendrick Lamar; Zacari",
-            "url": "https://open.spotify.com/track/5CRHxhQOzuj5iPASXodlmm"
+            "url": "https://open.spotify.com/track/5CRHxhQOzuj5iPASXodlmm",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2732171b967bef683ab0eaf12e9"
         },
         {
             "title": "679 (feat. Remy Boyz)",
             "artist": "Fetty Wap; Remy Boyz",
-            "url": "https://open.spotify.com/track/33CFCErrSDgJKZiqhv5B7s"
+            "url": "https://open.spotify.com/track/33CFCErrSDgJKZiqhv5B7s",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2737cbacc3cd694349b38a2e468"
         },
         {
             "title": "Stereo Love",
             "artist": "Edward Maya; Vika Jigulina",
-            "url": "https://open.spotify.com/track/35Dofxo9smHVxmFQbhYIAT"
+            "url": "https://open.spotify.com/track/35Dofxo9smHVxmFQbhYIAT",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2736f7dbee89247f233a45bdd88"
         },
         {
             "title": "Don't Wanna Know (feat. Kendrick Lamar)",
             "artist": "Maroon 5; Kendrick Lamar",
-            "url": "https://open.spotify.com/track/0AKejOKlGdiB53QpwAeenO"
+            "url": "https://open.spotify.com/track/0AKejOKlGdiB53QpwAeenO",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273c9fd5c07c8ebda54f8038711"
         },
         {
             "title": "We Don't Talk Anymore (feat. Selena Gomez)",
             "artist": "Charlie Puth; Selena Gomez",
-            "url": "https://open.spotify.com/track/68EMU2RD1ECNeOeJ5qAXCV"
+            "url": "https://open.spotify.com/track/68EMU2RD1ECNeOeJ5qAXCV",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273c0e28105f0533c52717c46c2"
         },
         {
             "title": "Havana (feat. Young Thug)",
             "artist": "Camila Cabello; Young Thug",
-            "url": "https://open.spotify.com/track/0ofbQMrRDsUaVKq2mGLEAb"
+            "url": "https://open.spotify.com/track/0ofbQMrRDsUaVKq2mGLEAb",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273d93cf4d07ba50d7b32ca7c44"
         },
         {
             "title": "Cheap Thrills",
             "artist": "Sia",
-            "url": "https://open.spotify.com/track/3S4px9f4lceWdKf0gWciFu"
+            "url": "https://open.spotify.com/track/3S4px9f4lceWdKf0gWciFu",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273754b2fddebe7039fdb912837"
         },
         {
             "title": "A Sky Full of Stars",
             "artist": "Coldplay",
-            "url": "https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ"
+            "url": "https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273e5a95573f1b91234630fd2cf"
         },
         {
             "title": "Feel This Moment (feat. Christina Aguilera)",
             "artist": "Pitbull; Christina Aguilera",
-            "url": "https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl"
+            "url": "https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273f2486b438645e97b523e4f90"
         },
         {
             "title": "Call Me Maybe",
             "artist": "Carly Rae Jepsen",
-            "url": "https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx"
+            "url": "https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273a111f7769013f1731e9c697c"
         },
         {
             "title": "Stitches",
             "artist": "Shawn Mendes",
-            "url": "https://open.spotify.com/track/5jsw9uXEGuKyJzs0boZ1bT"
+            "url": "https://open.spotify.com/track/5jsw9uXEGuKyJzs0boZ1bT",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273d26246b23c8bfa8ce543b3bb"
         },
         {
             "title": "All About Us",
             "artist": "Jordan Fisher",
-            "url": "https://open.spotify.com/track/4PV5EOcQZaiT6Us8CTOdhM"
+            "url": "https://open.spotify.com/track/4PV5EOcQZaiT6Us8CTOdhM",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27305a25ed77d913b33ad71d059"
         },
         {
             "title": "Treat You Better",
             "artist": "Shawn Mendes",
-            "url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd"
+            "url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2731376b4b16f4bfcba02dc571b"
         },
         {
             "title": "Better When I'm Dancin'",
             "artist": "Meghan Trainor",
-            "url": "https://open.spotify.com/track/5k5fWendNngd89O8JKoE8L"
+            "url": "https://open.spotify.com/track/5k5fWendNngd89O8JKoE8L",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273a348cd1b2496b47254acc74b"
         },
         {
             "title": "The Man",
             "artist": "Aloe Blacc",
-            "url": "https://open.spotify.com/track/2stPxcgjdSImK7Gizl8ZUN"
+            "url": "https://open.spotify.com/track/2stPxcgjdSImK7Gizl8ZUN",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273363fc5f57367a5e1d296f9aa"
         },
         {
             "title": "There's Nothing Holdin' Me Back",
             "artist": "Shawn Mendes",
-            "url": "https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml"
+            "url": "https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521"
         },
         {
             "title": "Happier",
             "artist": "Marshmello; Bastille",
-            "url": "https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99"
+            "url": "https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27304bfd5a5fd5aa6ca648f66aa"
         },
         {
             "title": "Clarity",
             "artist": "Zedd; Foxes",
-            "url": "https://open.spotify.com/track/60wwxj6Dd9NJlirf84wr2c"
+            "url": "https://open.spotify.com/track/60wwxj6Dd9NJlirf84wr2c",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273941dd3b3343d9cb9329d37bf"
         },
         {
             "title": "Something Just Like This",
             "artist": "The Chainsmokers; Coldplay",
-            "url": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW"
+            "url": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2730c13d3d5a503c84fcc60ae94"
         },
         {
             "title": "Glorious (feat. Skylar Grey)",
             "artist": "Macklemore; Skylar Grey",
-            "url": "https://open.spotify.com/track/7oiEcG81HDmNHI2Ki2FaRv"
+            "url": "https://open.spotify.com/track/7oiEcG81HDmNHI2Ki2FaRv",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273dbeb1bb467e6c51636599456"
         },
         {
             "title": "Side To Side",
             "artist": "Ariana Grande; Nicki Minaj",
-            "url": "https://open.spotify.com/track/2RTZ2xrCv92odRAHdpN1IB"
+            "url": "https://open.spotify.com/track/2RTZ2xrCv92odRAHdpN1IB",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273edb929261567beb0a6f5d096"
         },
         {
             "title": "See You Again (feat. Charlie Puth)",
             "artist": "Wiz Khalifa; Charlie Puth",
-            "url": "https://open.spotify.com/track/7wqSzGeodspE3V6RBD5W8L"
+            "url": "https://open.spotify.com/track/7wqSzGeodspE3V6RBD5W8L",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273916d2308473f0c00c3470b19"
         },
         {
             "title": "No Promises (feat. Demi Lovato)",
             "artist": "Cheat Codes; Demi Lovato",
-            "url": "https://open.spotify.com/track/1louJpMmzEicAn7lzDalPW"
+            "url": "https://open.spotify.com/track/1louJpMmzEicAn7lzDalPW",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273e74ecdb2f1316c8f026970a8"
         },
         {
             "title": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
             "artist": "Ellie Goulding",
-            "url": "https://open.spotify.com/track/3zHq9ouUJQFQRf3cm1rRLu"
+            "url": "https://open.spotify.com/track/3zHq9ouUJQFQRf3cm1rRLu",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2736bdee14242f244d9d6ddf2fd"
         },
         {
             "title": "Somebody",
             "artist": "Natalie La Rose; Jeremih",
-            "url": "https://open.spotify.com/track/7ioiB40H9xKs04QtIso2I3"
+            "url": "https://open.spotify.com/track/7ioiB40H9xKs04QtIso2I3",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273684f901ac7d2ff872a079b8e"
         },
         {
             "title": "Wait (feat. A Boogie Wit da Hoodie)",
             "artist": "Maroon 5; A Boogie Wit da Hoodie",
-            "url": "https://open.spotify.com/track/0SvxydoxEEkXt9aMAqTfpB"
+            "url": "https://open.spotify.com/track/0SvxydoxEEkXt9aMAqTfpB",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273301e0df8426ff1b01d365dfb"
         },
         {
             "title": "What Lovers Do (feat. SZA)",
             "artist": "Maroon 5; SZA",
-            "url": "https://open.spotify.com/track/4nYsmWkuTaowTMy4gskmBw"
+            "url": "https://open.spotify.com/track/4nYsmWkuTaowTMy4gskmBw",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273d87fe4a7e157a1ecb7566ef5"
         },
         {
             "title": "Into You",
             "artist": "Ariana Grande",
-            "url": "https://open.spotify.com/track/76FZM38RC8XaAjJ77CVTNe"
+            "url": "https://open.spotify.com/track/76FZM38RC8XaAjJ77CVTNe",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27333342c57a9b2c4e04c97b3f5"
         },
         {
             "title": "no tears left to cry",
             "artist": "Ariana Grande",
-            "url": "https://open.spotify.com/track/5SxkdsY1ufZzoq9iXceLw9"
+            "url": "https://open.spotify.com/track/5SxkdsY1ufZzoq9iXceLw9",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27365d28ba9f50b2eba46ffc55c"
         },
         {
             "title": "Sorry Not Sorry",
             "artist": "Demi Lovato",
-            "url": "https://open.spotify.com/track/4IzejIKnv6ICp1aXPgPQTD"
+            "url": "https://open.spotify.com/track/4IzejIKnv6ICp1aXPgPQTD",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2738f04c2d0583de4281aabe966"
         },
         {
             "title": "Wildest Dreams",
             "artist": "Taylor Swift",
-            "url": "https://open.spotify.com/track/59HjlYCeBsxdI0fcm3zglw"
+            "url": "https://open.spotify.com/track/59HjlYCeBsxdI0fcm3zglw",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148"
         },
         {
             "title": "What Do You Mean?",
             "artist": "Justin Bieber",
-            "url": "https://open.spotify.com/track/1ds2QsfhAAfRiaFMGDzrdb"
+            "url": "https://open.spotify.com/track/1ds2QsfhAAfRiaFMGDzrdb",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273137c52bef1a7b917847fa108"
         },
         {
             "title": "I Took A Pill In Ibiza - Seeb Remix",
             "artist": "Mike Posner; Seeb",
-            "url": "https://open.spotify.com/track/2xcXd7naj05KPERLmSkLNn"
+            "url": "https://open.spotify.com/track/2xcXd7naj05KPERLmSkLNn",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2735e57873780574ae3be2f47cd"
         },
         {
             "title": "Congratulations",
             "artist": "Post Malone; Quavo",
-            "url": "https://open.spotify.com/track/1bLjm7Gqjbuv57OxZdhLrP"
+            "url": "https://open.spotify.com/track/1bLjm7Gqjbuv57OxZdhLrP",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273894a761abf954838a84c8db9"
         },
         {
             "title": "This Is What You Came For",
             "artist": "Calvin Harris; Rihanna",
-            "url": "https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y"
+            "url": "https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273d9aa52355e062f5de060adbf"
         },
         {
             "title": "Treasure",
             "artist": "Bruno Mars",
-            "url": "https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7"
+            "url": "https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46"
         },
         {
             "title": "Some Nights",
             "artist": "fun.",
-            "url": "https://open.spotify.com/track/6t6oULCRS6hnI7rm0h5gwl"
+            "url": "https://open.spotify.com/track/6t6oULCRS6hnI7rm0h5gwl",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27305fb4e9947c6edaf3836766e"
         },
         {
             "title": "We Found Love",
             "artist": "Rihanna; Calvin Harris",
-            "url": "https://open.spotify.com/track/1zv3WFUbZ5vPxFq9I2jAU1"
+            "url": "https://open.spotify.com/track/1zv3WFUbZ5vPxFq9I2jAU1",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273439c7d14cc7e91953b8ab9fd"
         },
         {
             "title": "One Call Away",
             "artist": "Charlie Puth",
-            "url": "https://open.spotify.com/track/7soJgKhQTO8hLP2JPRkL5O"
+            "url": "https://open.spotify.com/track/7soJgKhQTO8hLP2JPRkL5O",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2734fe297c018e495a97662e5ac"
         },
         {
             "title": "24K Magic",
             "artist": "Bruno Mars",
-            "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
+            "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5"
         },
         {
             "title": "Eastside (with Halsey & Khalid)",
             "artist": "benny blanco; Halsey; Khalid",
-            "url": "https://open.spotify.com/track/0d2iYfpKoM0QCKvcLCkBao"
+            "url": "https://open.spotify.com/track/0d2iYfpKoM0QCKvcLCkBao",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2733154f0bdf9a17385d7afc6ba"
         },
         {
             "title": "Safe and Sound",
             "artist": "Capital Cities",
-            "url": "https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb"
+            "url": "https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27313c6cb6a81c8db4dbc8b9924"
         },
         {
             "title": "Better Now",
             "artist": "Post Malone",
-            "url": "https://open.spotify.com/track/3AISCGqWZmb6UPxoYrXaA9"
+            "url": "https://open.spotify.com/track/3AISCGqWZmb6UPxoYrXaA9",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273e973c79b907b28afec1b12c9"
         },
         {
             "title": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
             "artist": "Justin Timberlake",
-            "url": "https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc"
+            "url": "https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273ef37416970812293c08e8a78"
         },
         {
             "title": "Rockabye (feat. Sean Paul & Anne-Marie)",
             "artist": "Clean Bandit; Anne-Marie; Sean Paul",
-            "url": "https://open.spotify.com/track/5knuzwU65gJK7IF5yJsuaW"
+            "url": "https://open.spotify.com/track/5knuzwU65gJK7IF5yJsuaW",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273306c3a9ddc18b74f329d8cc2"
         },
         {
             "title": "Mine",
             "artist": "Bazzi",
-            "url": "https://open.spotify.com/track/7uzmGiiJyRfuViKKK3lVmR"
+            "url": "https://open.spotify.com/track/7uzmGiiJyRfuViKKK3lVmR",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273f9f2d43ff44bdfbe8c556f8d"
         },
         {
             "title": "No Lie",
             "artist": "Sean Paul; Dua Lipa",
-            "url": "https://open.spotify.com/track/48QmG1dfvMuYLxMPt7KSRA"
+            "url": "https://open.spotify.com/track/48QmG1dfvMuYLxMPt7KSRA",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2732d564195ed3dd7b70d64862c"
         },
         {
             "title": "Unforgettable (feat. Swae Lee)",
             "artist": "French Montana; Swae Lee",
-            "url": "https://open.spotify.com/track/1hpFAn1a2Gq7yKTXKmd4JQ"
+            "url": "https://open.spotify.com/track/1hpFAn1a2Gq7yKTXKmd4JQ",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2730e46960707a051199917b50e"
         },
         {
             "title": "In the Name of Love",
             "artist": "Martin Garrix; Bebe Rexha",
-            "url": "https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S"
+            "url": "https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2738c77bcf5f5a227d270d23370"
         },
         {
             "title": "Timber",
             "artist": "Pitbull; Kesha",
-            "url": "https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS"
+            "url": "https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273f2486b438645e97b523e4f90"
         },
         {
             "title": "Viva La Vida",
             "artist": "Coldplay",
-            "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
+            "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e"
         },
         {
             "title": "Heavy (feat. Kiiara)",
             "artist": "Linkin Park; Kiiara",
-            "url": "https://open.spotify.com/track/5AaUBjNsr229OlZDiga2mv"
+            "url": "https://open.spotify.com/track/5AaUBjNsr229OlZDiga2mv",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273af904eb60afd5e6439cf169a"
         },
         {
             "title": "Hotline Bling",
             "artist": "Drake",
-            "url": "https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7"
+            "url": "https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2739416ed64daf84936d89e671c"
         },
         {
             "title": "I Want You To Know",
             "artist": "Zedd; Selena Gomez",
-            "url": "https://open.spotify.com/track/1JDIArrcepzWDTAWXdGYmP"
+            "url": "https://open.spotify.com/track/1JDIArrcepzWDTAWXdGYmP",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273d040bc5b46915b49a64d7b1d"
         },
         {
             "title": "Friends (with BloodPop\u00ae)",
             "artist": "Justin Bieber; BloodPop\u00ae",
-            "url": "https://open.spotify.com/track/7iNIg7XDEaYECfWD5dJ9Va"
+            "url": "https://open.spotify.com/track/7iNIg7XDEaYECfWD5dJ9Va",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2735e8213c6183630b7d1931bdf"
         },
         {
             "title": "Where Have You Been",
             "artist": "Rihanna",
-            "url": "https://open.spotify.com/track/5WQQIDU3HRaMyPkob8mpFb"
+            "url": "https://open.spotify.com/track/5WQQIDU3HRaMyPkob8mpFb",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273bef074de9ca825bddaeb9f46"
         },
         {
             "title": "By Your Side",
             "artist": "Jonas Blue; RAYE",
-            "url": "https://open.spotify.com/track/4QTuyRQshEZYurtIDfE6g0"
+            "url": "https://open.spotify.com/track/4QTuyRQshEZYurtIDfE6g0",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2735b6bcc59c3562a6f362344c6"
         },
         {
             "title": "Firework",
             "artist": "Katy Perry",
-            "url": "https://open.spotify.com/track/3lXbHd0EoryoQh3vpevNEP"
+            "url": "https://open.spotify.com/track/3lXbHd0EoryoQh3vpevNEP",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2731d955011a3ed477dc77865ad"
         },
         {
             "title": "My House",
             "artist": "Flo Rida",
-            "url": "https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1"
+            "url": "https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2737947bf3e8af32378de181b41"
         },
         {
             "title": "Youngblood",
             "artist": "5 Seconds of Summer",
-            "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
+            "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27341aa6776dc15fbd71a2b4557"
         },
         {
             "title": "Only Girl (In The World)",
             "artist": "Rihanna",
-            "url": "https://open.spotify.com/track/2ENexcMEMsYk0rVJigVD3i"
+            "url": "https://open.spotify.com/track/2ENexcMEMsYk0rVJigVD3i",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27331548865f7c729290b96c794"
         },
         {
             "title": "Break Your Heart",
             "artist": "Taio Cruz; Ludacris",
-            "url": "https://open.spotify.com/track/7mDCg8XTEyDNPzC5Jdt7mu"
+            "url": "https://open.spotify.com/track/7mDCg8XTEyDNPzC5Jdt7mu",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273c434f98f315c12a0f4d049a0"
         },
         {
             "title": "Team",
             "artist": "Lorde",
-            "url": "https://open.spotify.com/track/3G6hD9B2ZHOsgf4WfNu7X1"
+            "url": "https://open.spotify.com/track/3G6hD9B2ZHOsgf4WfNu7X1",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98"
         },
         {
             "title": "The Middle",
             "artist": "Zedd; Maren Morris; Grey",
-            "url": "https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc"
+            "url": "https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273fbe22d168a743b782a5e856a"
         },
         {
             "title": "Part Of Me",
             "artist": "Katy Perry",
-            "url": "https://open.spotify.com/track/1nZzRJbFvCEct3uzu04ZoL"
+            "url": "https://open.spotify.com/track/1nZzRJbFvCEct3uzu04ZoL",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273937af329667311f4b2831616"
         },
         {
             "title": "King",
             "artist": "Olly Alexander (Years & Years)",
-            "url": "https://open.spotify.com/track/3AeicLnm55RqcXGBKYQolM"
+            "url": "https://open.spotify.com/track/3AeicLnm55RqcXGBKYQolM",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273b84e077bb3f2e36adbdeb6d4"
         },
         {
             "title": "S&M",
             "artist": "Rihanna",
-            "url": "https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D"
+            "url": "https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27331548865f7c729290b96c794"
         },
         {
             "title": "Love Me Harder",
             "artist": "Ariana Grande; The Weeknd",
-            "url": "https://open.spotify.com/track/5J4ZkQpzMUFojo1CtAZYpn"
+            "url": "https://open.spotify.com/track/5J4ZkQpzMUFojo1CtAZYpn",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa"
         },
         {
             "title": "Neon Lights",
             "artist": "Demi Lovato",
-            "url": "https://open.spotify.com/track/34MJ07N9Bhu6iKPaxSVnCT"
+            "url": "https://open.spotify.com/track/34MJ07N9Bhu6iKPaxSVnCT",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273aadb13ae608f6af20528409b"
         },
         {
             "title": "Perfect Strangers",
             "artist": "Jonas Blue; JP Cooper",
-            "url": "https://open.spotify.com/track/3P3pw6C19j31Rnzgo3JG7o"
+            "url": "https://open.spotify.com/track/3P3pw6C19j31Rnzgo3JG7o",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2735b6bcc59c3562a6f362344c6"
         },
         {
             "title": "Wide Awake",
             "artist": "Katy Perry",
-            "url": "https://open.spotify.com/track/5JLv62qFIS1DR3zGEcApRt"
+            "url": "https://open.spotify.com/track/5JLv62qFIS1DR3zGEcApRt",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273937af329667311f4b2831616"
         },
         {
             "title": "Alive",
             "artist": "Empire Of The Sun",
-            "url": "https://open.spotify.com/track/2O9O26335YYVckmRgPKY3s"
+            "url": "https://open.spotify.com/track/2O9O26335YYVckmRgPKY3s",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273cf06b7a58c6bf3e90102bf05"
+        },
+        {
+            "title": "Through Da Storm",
+            "artist": "Polo G",
+            "url": "https://open.spotify.com/track/3NqCEpT8xsHdzpiRlM1kpS",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273ae8b07ecdcf7aadefe00264f"
+        },
+        {
+            "title": "Laugh Now Cry Later (feat. Lil Durk)",
+            "artist": "Drake; Lil Durk",
+            "url": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27352c75ed37313b889447011ef"
+        },
+        {
+            "title": "RAPSTAR",
+            "artist": "Polo G",
+            "url": "https://open.spotify.com/track/18vXApRmJSgQ6wG2ll9AOg",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273a493e05c99d8ec5e8020ff2b"
+        },
+        {
+            "title": "Martin & Gina",
+            "artist": "Polo G",
+            "url": "https://open.spotify.com/track/1VLtjHwRWOVJiE5Py7JxoQ",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273339f780dfdbc38558ea0761d"
+        },
+        {
+            "title": "Murder on My Mind",
+            "artist": "YNW Melly",
+            "url": "https://open.spotify.com/track/7eBqSVxrzQZtK2mmgRG6lC",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2730f5397dc6aa91374897182e0"
+        },
+        {
+            "title": "Blueberry Faygo",
+            "artist": "Lil Mosey",
+            "url": "https://open.spotify.com/track/22LAwLoDA5b4AaGSkg6bKW",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2730824105a6282782aaabb0584"
+        },
+        {
+            "title": "Speak",
+            "artist": "Internet Money; The Kid LAROI",
+            "url": "https://open.spotify.com/track/6MiklcQlQKHGqM7VV1mWKo",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273a64752f7639c1220d56ea129"
+        },
+        {
+            "title": "Project Dreams",
+            "artist": "Marshmello; Roddy Ricch",
+            "url": "https://open.spotify.com/track/28IXXvWmi4rsGbe0nnEjSV",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27322eaac3409d8ea950f8dd332"
+        },
+        {
+            "title": "Pop Out (feat. Lil Tjay)",
+            "artist": "Polo G; Lil Tjay",
+            "url": "https://open.spotify.com/track/6uFn47ACjqYkc0jADwEdj1",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273ae8b07ecdcf7aadefe00264f"
+        },
+        {
+            "title": "Me and My Brother",
+            "artist": "5ive",
+            "url": "https://open.spotify.com/track/50lrN3hA1d3bHpeW0Dcvzv",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2739ce98a97e17d8805c6f89d42"
+        },
+        {
+            "title": "223's (feat. 9lokknine)",
+            "artist": "YNW Melly; 9lokknine",
+            "url": "https://open.spotify.com/track/29ZXwWOOLz9t5fa3eT3i7T",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2730f47d89f02cd58a168b8193e"
+        },
+        {
+            "title": "21",
+            "artist": "Polo G",
+            "url": "https://open.spotify.com/track/3JKgcAa7r07ocVWcV8bS0H",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273339f780dfdbc38558ea0761d"
+        },
+        {
+            "title": "Somebody",
+            "artist": "Internet Money; Lil Tecca; A Boogie Wit da Hoodie",
+            "url": "https://open.spotify.com/track/44b5itlYXwofZZoPFsNzcT",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273a64752f7639c1220d56ea129"
+        },
+        {
+            "title": "All Girls Are The Same",
+            "artist": "Juice WRLD",
+            "url": "https://open.spotify.com/track/4VXIryQMWpIdGgYR4TrjT1",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4"
+        },
+        {
+            "title": "Diva (feat. Lil Tecca)",
+            "artist": "The Kid LAROI; Lil Tecca",
+            "url": "https://open.spotify.com/track/7gVwgc8b3XnO87TpmXXFA5",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2731ae71e77aef7c34227027daa"
+        },
+        {
+            "title": "Kamikaze",
+            "artist": "Lil Mosey",
+            "url": "https://open.spotify.com/track/3to5UxKsozb4T6CfwHuhLJ",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273db953460d6de87c6d6788cb5"
+        },
+        {
+            "title": "Suicidal",
+            "artist": "YNW Melly",
+            "url": "https://open.spotify.com/track/1iSqfoUFnQwV0QW1EfUit8",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2730f47d89f02cd58a168b8193e"
+        },
+        {
+            "title": "Don't Let Me Down",
+            "artist": "The Chainsmokers; Daya",
+            "url": "https://open.spotify.com/track/1i1fxkWeaMmKEB4T7zqbzK",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27302df2d642b572cf4f284a5c3"
+        },
+        {
+            "title": "No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)",
+            "artist": "DJ Khaled; Justin Bieber; Chance the Rapper; Quavo",
+            "url": "https://open.spotify.com/track/6fRgwFz40hXUjtLorkF1Qb",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273315cc46f992d23b8864b3482"
+        },
+        {
+            "title": "One Call Away",
+            "artist": "Charlie Puth",
+            "url": "https://open.spotify.com/track/7soJgKhQTO8hLP2JPRkL5O",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2734fe297c018e495a97662e5ac"
+        },
+        {
+            "title": "Treasure",
+            "artist": "Bruno Mars",
+            "url": "https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46"
+        },
+        {
+            "title": "Beautiful (feat. Camila Cabello)",
+            "artist": "Bazzi; Camila Cabello",
+            "url": "https://open.spotify.com/track/4VUwkH455At9kENOfzTqmF",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27305559264ebef3889709826cf"
+        },
+        {
+            "title": "A Sky Full of Stars",
+            "artist": "Coldplay",
+            "url": "https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ",
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273e5a95573f1b91234630fd2cf"
         }
     ]
 }

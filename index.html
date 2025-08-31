@@ -1,25 +1,82 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="icon" href="images/favicon.png">
-        <link rel="stylesheet" href="style.css">
-        <title>Paws at you :3</title>
-    </head>
-    <body>
-        <div id="viewport">
-            <div id="scene">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paws at you :3</title>
+    
+    <link rel="icon" href="images/favicon.png">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
 
-            <div class="item" style="top:100px; left:100px;">Meow</div>
-            <div class="item" style="top:300px; left:100px;">Some random things I do :3</div>
-            <div class="item" style="top:200px; left:800px;"><a href="https://damriera.github.io/vladi_playlist/vladi_playlist_aquarium.html">Vladi's Playlist (aquarium)</a></div>
-            <div class="item" style="top:300px; left:800px;"><a href="https://damriera.github.io/vladi_playlist/vladi_playlist_list.html">Vladi's Playlist (List)</a></div>
-            <div class="item" style="top:100px; left:1200px;">oomfie's playlist</a></div>
-            <div class="item" style="top:200px; left:1200px;"><a href="https://damriera.github.io/dia_playlist/dia_playlist_aquarium.html">Dia's Playlist (aquarium)</a></div>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+</head>
+<body>
+    <main>
+        <header id="hero">
+            <div class="row">
+                <!-- <img src="images/x.png"> -->
+                <h1>damriera</h1>
             </div>
-        </div>
+            <p class="subtitle">My official links and projects</p>
+        </header>
 
-        <script src="script.js"></script>
-        </body>
+        <section class="section">
+            <h2>My Links</h2>
+            <div class="link-list">
+                <a class="link-item" href="https://github.com/damriera" target="_blank" rel="noopener" aria-label="GitHub profile damriera">
+                    <i class="fa-brands fa-github"></i>
+                    <span>GitHub — @damriera</span>
+                </a>
+                <a class="link-item" href="https://www.twitch.tv/damriera_" target="_blank" rel="noopener" aria-label="Twitch main channel">
+                    <i class="fa-brands fa-twitch"></i>
+                    <span>Twitch — damriera_</span>
+                    <!-- <span class="badge"></span> -->
+                </a>
+                <a class="link-item" href="https://www.youtube.com/@damriera" target="_blank" rel="noopener" aria-label="YouTube channel">
+                    <i class="fa-brands fa-youtube"></i>
+                    <span>YouTube — damriera</span>
+                </a>
+
+            </div>
+        </section>
+
+        <section class="section">
+            <h2>My Projects</h2>
+            <div class="link-list">
+                <a class="link-item" href="https://damriera.github.io/vladi_playlist/vladi_playlist_aquarium.html" target="_blank" rel="noopener" aria-label="Vladi's Playlist (aquarium)">
+                    <i class="fa-solid fa-music"></i>
+                    <span style="display: inline-flex; align-items: center;">
+                        <img src="images/KC_logo.png" alt="Karmine Corp Logo" style="height: 1em; margin-right: 0.4em; vertical-align: middle;">
+                        Vladi's Playlist (aquarium)
+                    </span>
+                    <span class="badge">Only on PC</span>
+                </a>
+                <a class="link-item" href="https://damriera.github.io/vladi_playlist/vladi_playlist_list.html" target="_blank" rel="noopener" aria-label="Vladi's Playlist (list)">
+                    <i class="fa-solid fa-list"></i>
+                    <span style="display: inline-flex; align-items: center;">
+                        <img src="images/KC_logo.png" alt="Karmine Corp Logo" style="height: 1em; margin-right: 0.4em; vertical-align: middle;">
+                        Vladi's Playlist (list)
+                    </span>
+                </a>
+            </div>
+        </section>
+
+        <section class="section">
+            <h2>Others things</h2>
+            <div class="link-list">
+                <a class="link-item" href="https://damriera.github.io/dia_playlist/dia_playlist_aquarium.html" target="_blank" rel="noopener" aria-label="Dia's Playlist (aquarium)">
+                    <i class="fa-solid fa-music"></i>
+                    <span>Dia's Playlist (aquarium)</span>
+                    <span class="badge">Only on PC</span>
+                </a>
+            </div>
+        </section>
+    </main>
+</body>
 </html>

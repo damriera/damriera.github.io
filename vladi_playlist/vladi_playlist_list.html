@@ -5,75 +5,22 @@
   <link rel="icon" href="../images/vladi_playlist_favicon.png">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Vladi's Playlist</title>
-  <style>
-    body {
-      font-family: 'Arial', sans-serif;
-      background: #121212;
-      color: #fff;
-      margin: 0;
-      padding: 0;
-    }
-
-    header {
-      text-align: center;
-      padding: 2rem 0;
-      background: #1db954;
-      font-size: 2rem;
-      font-weight: bold;
-    }
-
-    .playlist {
-      max-width: 800px;
-      margin: 2rem auto;
-      padding: 0 1rem;
-    }
-
-    .song {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      padding: 1rem;
-      margin-bottom: 1rem;
-      background: #181818;
-      border-radius: 10px;
-      transition: background 0.2s;
-    }
-
-    .song:hover {
-      background: #282828;
-    }
-
-    .song-info {
-      display: flex;
-      flex-direction: column;
-    }
-
-    .song-title {
-      font-weight: bold;
-      font-size: 1.1rem;
-    }
-
-    .song-artist {
-      font-size: 0.9rem;
-      color: #b3b3b3;
-    }
-
-    .song a {
-      text-decoration: none;
-      color: #1db954;
-      font-weight: bold;
-    }
-
-    .song a:hover {
-      text-decoration: underline;
-    }
-  </style>
+  <link rel="stylesheet" href="list_style.css">
 </head>
 <body>
 
-<header>Vladi's Playlist</header>
+<main>
 
-<div class="playlist" id="playlist"></div>
+  <header id="hero">
+    <div class="row">
+      <img src="../images/KC_logo.png" alt="Logo">
+      <h1>Vladi's playlist</h1>
+    </div>
+      <p class="subtitle">Click on the songs to open them on Spotify</p>
+  </header>
+
+  <div class="playlist" id="playlist"></div>
+</main>
 
 <script>
   // Fetch the JSON file
@@ -82,23 +29,38 @@
     .then(data => {
       const playlistContainer = document.getElementById('playlist');
 
-      data.songs.forEach(song => {
-        const songDiv = document.createElement('div');
-        songDiv.className = 'song';
+      // Create the wrapper <div class="link-list">
+      const linkList = document.createElement('div');
+      linkList.className = 'link-list';
 
-        songDiv.innerHTML = `
-          <div class="song-info">
-            <div class="song-title">${song.title}</div>
-            <div class="song-artist">${song.artist}</div>
-          </div>
-          <a href="${song.url}" target="_blank">Listen</a>
+      data.songs.forEach(song => {
+        // Create the <a> element
+        const linkItem = document.createElement('a');
+        linkItem.className = 'link-item';
+        linkItem.href = song.url;
+        linkItem.target = '_blank';
+        linkItem.rel = 'noopener';
+        linkItem.setAttribute('aria-label', `${song.title} by ${song.artist}`);
+
+        // Build the inner content (icon + album cover + text)
+        linkItem.innerHTML = `
+          <i class="fa-solid fa-music"></i>
+          <span style="display: inline-flex; align-items: center;">
+            <img src="${song.album_cover_url}" alt="Album cover" style="height: 2em; margin-right: 0.8em; vertical-align: middle;">
+            ${song.title} — ${song.artist}
+          </span>
         `;
 
-        playlistContainer.appendChild(songDiv);
+        // Append each item to the list
+        linkList.appendChild(linkItem);
       });
+
+      // Append the list to the container
+      playlistContainer.appendChild(linkList);
     })
     .catch(error => console.error('Error loading JSON:', error));
 </script>
+
 
 </body>
 </html>
