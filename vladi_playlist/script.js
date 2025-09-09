@@ -59,6 +59,19 @@ function renderSongs(songs) {
     const el = document.createElement("div");
     el.className = "song";
 
+    // add album cover
+    if (s.album_cover_url) {
+      const img = document.createElement("img");
+      img.src = s.album_cover_url;
+      //scale down the image
+      img.style.width = "50px";
+      img.style.height = "50px";
+      img.style.objectFit = "cover";
+      img.style.borderRadius = "4px";
+      img.style.marginRight = "10px";
+      el.appendChild(img);
+    }
+
     const text = document.createElement("span");
     text.textContent = `${s.title} — ${s.artist}`;
     el.appendChild(text);
