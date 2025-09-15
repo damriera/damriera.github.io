@@ -8,7 +8,7 @@ body {
 }
 
 a {
-    color: rgb(17, 101, 211);
+    color: rgb(211, 40, 17);
 }
 
 main {
@@ -60,13 +60,30 @@ main {
     margin-top: 28px;
 }
 
-.section h2 {
-    font-size: 16px;
+/* Section imbriquée dans une autre */
+.section .section {
+    margin-top: 16px;   /* moins d'espace que la racine */
+    padding-left: 16px; /* petit retrait pour montrer la hiérarchie */
+    border-left: 2px solid #2a2a2a; /* optionnel pour visuellement marquer */
+}
+
+/* Titre principal (h2) */
+.section > h2 {
+    font-size: 18px;
     font-weight: 700;
     letter-spacing: 0.08em;
     text-transform: uppercase;
-    color: #aaa;
+    color: #d8d8d8;
     margin: 0 0 12px 4px;
+}
+
+/* Titre de sous-section (h1 ou h3 selon logique sémantique) */
+.section .section > h3,
+.section .section > h2 {
+    font-size: 20px;
+    font-weight: 600;
+    color: #888888;
+    margin: 0 0 8px 4px;
 }
 
 .link-list {
@@ -92,7 +109,7 @@ main {
     font-size: 20px;
     width: 24px;
     text-align: center;
-    color: rgb(17, 101, 211);
+    color: rgb(211, 40, 17);
 }
 
 .link-item span {
@@ -113,7 +130,7 @@ main {
 
 .link-item:hover {
     background: #1f1f1f;
-    border-color: rgb(17, 101, 211);
+    border-color: rgb(211, 40, 17);
 }
 
 .link-item:active {
@@ -143,7 +160,7 @@ main {
 }
 
 .notice.info {
-    border-left-color: rgb(17, 101, 211);
+    border-left-color: rgb(211, 40, 17);
 }
 
 
