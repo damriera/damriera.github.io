@@ -180,26 +180,83 @@ nav {
     color: #38bdf8;
 }
 
-.contact-container {
-    background: #23232a;
-    max-width: 500px;
-    margin: 3rem auto;
-    padding: 2rem 2.5rem;
-    border-radius: 16px;
-    box-shadow: 0 4px 24px rgba(0,0,0,0.25);
-    text-align: center;
+@media (max-width: 700px) {
+    .timeline {
+        max-width: 98vw;
+        padding: 8px 0;
+    }
+    .timeline-item {
+        padding-left: 48px;
+        margin-bottom: 32px;
+    }
+    .timeline-bullet {
+        left: 8px;
+        width: 22px;
+        height: 22px;
+        font-size: 12px;
+        border-width: 2px;
+    }
+    .timeline-content {
+        padding: 16px 12px;
+        font-size: 1rem;
+    }
+    .timeline-title {
+        font-size: 1.05rem;
+        margin-bottom: 6px;
+    }
+    .timeline-details li {
+        font-size: 0.98rem;
+    }
+    .timeline-content .timeline-content {
+        padding: 10px 8px;
+        margin-top: 10px;
+    }
+    nav {
+        padding: 0.7rem 0;
+    }
+    .nav-links {
+        gap: 1.2rem;
+        flex-wrap: wrap;
+    }
 }
 
-.contact-container h1 {
-    font-size: 2.2rem;
-    margin-bottom: 1rem;
-    color: #38bdf8;
-    font-weight: 700;
-    letter-spacing: 0.04em;
-}
-
-.contact-container p {
-    font-size: 1.1rem;
-    margin-bottom: 2rem;
-    color: #cbd5e1;
+@media (max-width: 500px) {
+    .timeline {
+        max-width: 100vw;
+        padding: 4px 0;
+    }
+    .timeline-item {
+        padding-left: 36px;
+        margin-bottom: 24px;
+    }
+    .timeline-bullet {
+        left: 0;
+        width: 16px;
+        height: 16px;
+        font-size: 9px;
+        border-width: 2px;
+    }
+    .timeline-content {
+        padding: 8px 6px;
+        font-size: 0.92rem;
+    }
+    .timeline-title {
+        font-size: 0.98rem;
+        margin-bottom: 3px;
+    }
+    .timeline-details li {
+        font-size: 0.92rem;
+    }
+    .timeline-content .timeline-content {
+        padding: 6px 4px;
+        margin-top: 6px;
+    }
+    nav {
+        padding: 0.4rem 0;
+    }
+    .nav-links {
+        gap: 0.7rem;
+        flex-direction: column;
+        align-items: center;
+    }
 }
