@@ -26,7 +26,7 @@ body {
 
 .timeline-item {
     position: relative;
-    margin-bottom: 40px;
+    margin-bottom: 56px; /* Increased space between items */
     padding-left: 80px;
 }
 
@@ -55,9 +55,11 @@ body {
 .timeline-content {
     background: #23262b;
     border-radius: 8px;
-    padding: 18px 24px;
+    padding: 28px 32px; /* More padding for more space */
     box-shadow: 0 2px 12px #0004;
     transition: box-shadow 0.2s;
+    margin-bottom: 16px; /* Space for nested boxes */
+    position: relative;
 }
 
 .timeline-content:hover {
@@ -68,7 +70,7 @@ body {
     font-size: 1.2rem;
     font-weight: 600;
     color: #4f8cff;
-    margin-bottom: 8px;
+    margin-bottom: 12px;
 }
 
 .timeline-details {
@@ -78,7 +80,7 @@ body {
 }
 
 .timeline-details li {
-    margin-bottom: 6px;
+    margin-bottom: 10px;
     color: #e0e0e0;
     font-size: 1rem;
 }
@@ -87,6 +89,20 @@ body {
     margin-bottom: 0;
 }
 
+/* Nested content box styling */
+.timeline-content .timeline-content {
+    background: #202226;
+    border: 1.5px solid #4f8cff33;
+    box-shadow: 0 1px 6px #0003;
+    padding: 18px 20px;
+    margin: 16px 0 0 0;
+}
+
+.timeline-content .timeline-title {
+    font-size: 1rem;
+    margin-bottom: 8px;
+    color: #7fb3ff;
+}
 
 @media (max-width: 400px) {
     .timeline {
@@ -95,7 +111,7 @@ body {
     }
     .timeline-item {
         padding-left: 44px;
-        margin-bottom: 28px;
+        margin-bottom: 36px;
     }
     .timeline-bullet {
         left: 2px;
@@ -105,7 +121,7 @@ body {
         border-width: 2px;
     }
     .timeline-content {
-        padding: 8px 8px;
+        padding: 12px 10px;
         font-size: 0.95rem;
     }
     .timeline-title {
@@ -114,5 +130,9 @@ body {
     }
     .timeline-details li {
         font-size: 0.95rem;
+    }
+    .timeline-content .timeline-content {
+        padding: 8px 6px;
+        margin-top: 8px;
     }
 }
