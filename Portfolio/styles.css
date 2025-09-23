@@ -100,12 +100,12 @@ nav {
 
 @media (max-width: 600px) {
     nav {
-        padding: 0.5rem 0;
+        padding: 0.4rem 0;
     }
 
     .nav-links {
+        gap: 0.7rem;
         flex-direction: column;
-        gap: 1rem;
         align-items: center;
     }
 
