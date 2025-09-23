@@ -1,0 +1,132 @@
+body {
+    background: #181a20;
+    color: #e0e0e0;
+    font-family: 'Segoe UI', 'Roboto', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: #23232a;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+
+nav {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 1rem 0;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-links a {
+    color: #e5e7eb;
+    text-decoration: none;
+    font-weight: 500;
+    letter-spacing: 0.05em;
+    padding: 0.5em 1em;
+    border-radius: 6px;
+    transition: background 0.2s, color 0.2s;
+}
+
+.nav-links a:hover,
+.nav-links a:focus {
+    background: #31313a;
+    color: #38bdf8;
+}
+
+.stats-container {
+    background: #23232a;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    margin: 1rem;
+    padding: 1rem;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.stats-item {
+    background: #2c2c36;
+    border-radius: 6px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    margin: 1rem 0;
+    padding: 1rem;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.stats-item:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 4px 16px rgba(0,0,0,0.2);
+}
+
+.stats-item-title {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+}
+
+.stats-item-title img {
+    width: 40px;
+    height: 40px;
+    border-radius: 8px;
+    object-fit: cover;
+    margin-right: 0.5rem;
+    background: #181a20;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+}
+
+.stats-item-title a {
+    color: #38bdf8;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.2s;
+}
+
+.stats-item-title a:hover,
+.stats-item-title a:focus {
+    color: #e0e0e0;
+    text-decoration: none;
+}
+
+
+@media (max-width: 500px) {
+    nav {
+        padding: 0.4rem 0;
+    }
+
+    .nav-links {
+        gap: 0.7rem;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .stats-container {
+        margin: 0.5rem;
+        padding: 0.5rem;
+    }
+
+    .stats-item {
+        margin: 0.5rem 0;
+        padding: 0.5rem;
+    }
+
+    .stats-item-title {
+        font-size: 1rem;
+        gap: 0.5rem;
+    }
+
+    .stats-item-title img {
+        width: 32px;
+        height: 32px;
+        margin-right: 0.25rem;
+    }
+}

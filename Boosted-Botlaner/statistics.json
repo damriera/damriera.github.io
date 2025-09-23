@@ -1,0 +1,22 @@
+{
+    "songs": {
+        "total_number": 0,
+        "total_played": 0,
+        "most_played_song": {
+            "title": "",
+            "times_played": 0,
+            "hours_played": 0
+        },
+        "most_active_user": {
+            "username": "",
+            "songs_listened": 0,
+            "hours_listened": 0
+        },
+        "total_playback_time_hours": 0
+    },
+    "vladi_tracking": {
+        "total_number_of_songs_tracked": 120,
+        "total_number_of_messages_sent": "120+",
+        "total_number_of_hours_tracking": 0
+    }
+}
