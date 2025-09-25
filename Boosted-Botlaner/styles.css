@@ -97,6 +97,13 @@ nav {
     text-decoration: none;
 }
 
+.stats-container h4 {
+    color: #6f7892;
+    margin: 0.5rem 0;
+    font-size: 0.7rem;
+    font-weight: 500;
+}
+
 
 @media (max-width: 500px) {
     nav {
