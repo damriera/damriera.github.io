@@ -24,8 +24,6 @@ document.addEventListener('DOMContentLoaded', async () => {
                 `Nombre total de chansons suivies : ${stats.vladi_tracking.total_number_of_songs_tracked}`;
             secondUl.querySelector('li:nth-child(2)').textContent =
                 `Nombre total de messages envoyés sur son chat Twitch : ${stats.vladi_tracking.total_number_of_messages_sent}`;
-            secondUl.querySelector('li:nth-child(3)').textContent =
-                `Nombre total d'heures de suivi de Vladi : ${stats.vladi_tracking.total_number_of_hours_tracking}`;
         }
     } catch (error) {
         console.error('Erreur lors du chargement des statistiques :', error);

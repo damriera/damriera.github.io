@@ -21,7 +21,6 @@
     },
     "vladi_tracking": {
         "total_number_of_songs_tracked": 0,
-        "total_number_of_messages_sent": 0,
-        "total_number_of_seconds_tracking": 0
+        "total_number_of_messages_sent": 0
     }
 }

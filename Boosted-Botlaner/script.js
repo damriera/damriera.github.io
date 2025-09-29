@@ -24,8 +24,6 @@ document.addEventListener('DOMContentLoaded', async () => {
                 `Total number of songs tracked: ${stats.vladi_tracking.total_number_of_songs_tracked}`;
             secondUl.querySelector('li:nth-child(2)').textContent =
                 `Total number of messages sent in his Twitch chat: ${stats.vladi_tracking.total_number_of_messages_sent}`;
-            secondUl.querySelector('li:nth-child(3)').textContent =
-                `Total number of hours tracking Vladi: ${stats.vladi_tracking.total_number_of_hours_tracking}`;
         }
     } catch (error) {
         console.error('Error loading statistics:', error);
