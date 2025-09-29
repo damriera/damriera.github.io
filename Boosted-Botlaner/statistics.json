@@ -1,8 +1,12 @@
 {
-    "general stats": {
-        "total_messages_tracked": 0,
-        "total_reactions_tracked": 0,
-        "total_users": 0
+    "general": {
+        "total_number_of_users": 0,
+        "total_number_of_messages_sent": 0,
+        "total_number_of_commands_executed": 0,
+        "most_active_user": {
+            "username": "",
+            "messages_sent": 0
+        }
     },
     "songs": {
         "total_number": 0,
